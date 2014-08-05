@@ -1,0 +1,5 @@
+c:\users\jiangadmin\documents\visual studio 2010\Projects\MVCApp_GFJ\MVCApp_GFJ\bin\MVCApp_GFJ.dll
+c:\users\jiangadmin\documents\visual studio 2010\Projects\MVCApp_GFJ\MVCApp_GFJ\bin\MVCApp_GFJ.pdb
+c:\users\jiangadmin\documents\visual studio 2010\Projects\MVCApp_GFJ\MVCApp_GFJ\obj\Debug\MVCApp_GFJ.csprojResolveAssemblyReference.cache
+c:\users\jiangadmin\documents\visual studio 2010\Projects\MVCApp_GFJ\MVCApp_GFJ\obj\Debug\MVCApp_GFJ.dll
+c:\users\jiangadmin\documents\visual studio 2010\Projects\MVCApp_GFJ\MVCApp_GFJ\obj\Debug\MVCApp_GFJ.pdb
